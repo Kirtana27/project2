@@ -1,4 +1,4 @@
 # New project
 
 THis project was created from local sysytem.
-Created by Kirtana Kalambe.
+Created by Kirtana kalambe.
